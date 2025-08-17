@@ -21,7 +21,7 @@ ADMIN_IDS = [2125687935]  # Your admin ID
 EMPTY = "⬜"
 PLAYER_X = "❌"
 PLAYER_O = "⭕"
-WATERMARK = "\n\n*— @nepcodernp | Advanced Tic-Tac-Toe*"
+WATERMARK = "\n\n*Made With 💗 By @IBMBotSupport*"
 BOARD_SIZE = 3
 
 # --- Enhanced Emojis for UI ---
@@ -2050,3 +2050,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
